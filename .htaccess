@@ -1,0 +1,4 @@
+RewriteEngine ON
+Options +MultiViews
+RewriteRule ^(.*)$ api/index.php
+
